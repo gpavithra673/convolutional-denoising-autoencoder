@@ -12,6 +12,7 @@ Autoencoder is an unsupervised artificial neural network that is trained to copy
 ![image](https://github.com/gpavithra673/convolutional-denoising-autoencoder/assets/93427264/8b5aaff4-d7f6-44d5-87cc-9ec5589f3696)
 
 ## Convolution Autoencoder Network Model
+![image](https://github.com/gpavithra673/convolutional-denoising-autoencoder/assets/93427264/8d720c07-a707-43d5-bb3a-09dd1311c102)
 
 
 
